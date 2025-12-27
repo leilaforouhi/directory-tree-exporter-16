@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 Directory Tree Exporter
 - Walks through the project directory
